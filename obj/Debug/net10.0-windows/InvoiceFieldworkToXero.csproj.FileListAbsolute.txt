@@ -1,0 +1,17 @@
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\bin\Debug\net10.0-windows\InvoiceFieldworkToXero.exe
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\bin\Debug\net10.0-windows\InvoiceFieldworkToXero.deps.json
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\bin\Debug\net10.0-windows\InvoiceFieldworkToXero.runtimeconfig.json
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\bin\Debug\net10.0-windows\InvoiceFieldworkToXero.dll
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\bin\Debug\net10.0-windows\InvoiceFieldworkToXero.pdb
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.InvoiceXero.resources
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.csproj.GenerateResource.cache
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.AssemblyInfoInputs.cache
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.AssemblyInfo.cs
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.csproj.CoreCompileInputs.cache
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.dll
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\refint\InvoiceFieldworkToXero.dll
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.pdb
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceFieldworkToXero.genruntimeconfig.cache
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\ref\InvoiceFieldworkToXero.dll
+C:\Projects\InvoiceFieldworkToXero\InvoiceFieldworkToXero\obj\Debug\net10.0-windows\InvoiceF.3F64BDC5.Up2Date
